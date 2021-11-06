@@ -6,3 +6,5 @@ class Person:
 
 p = Person('aa')
 p.say_hi()
+
+# ok
